@@ -1,0 +1,16 @@
+{
+    "category": [
+      {
+        "Id": "new",
+        "Name": "Yeni"
+      },
+      {
+        "Id": "politic",
+        "Name": "Siyasi"
+      },
+      {
+        "Id": "actual",
+        "Name": "Güncel"
+      }
+    ]
+  }
